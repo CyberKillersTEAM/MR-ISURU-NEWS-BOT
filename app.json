@@ -1,0 +1,28 @@
+{
+  "name": "MR-ISURU-NEWS-BOT",
+  "description": "A tech news scrapper whatsapp bot by Mr Isuru",
+  "logo": "",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "MR-ISURU-NEWS-BOT", "newsbot", "mrisuru","Mr Isuru","theme bot","news-md","baileys","excel"],
+  "success_url": "/",
+  "stack": "container",
+"env": {
+    "SESSION_ID": {
+    "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@savigaming2009/SAVIYA-MD-BOT-QR"
+  },
+    "THEME": {
+    "description": "Put the theme name you want to use. Avilable themes are DARK-MD and many more..",
+     "value": "MR-ISURU-NEWS-BOT"
+  },
+  "heroku": {
+    "description": "Weather it is on heroku or not",
+     "value": "true",
+     "required": false 
+  }
+ },
+ "formation": {
+		"worker": {
+			"quantity": 1,
+			"size": "basic"
+		}
+	}
+}
