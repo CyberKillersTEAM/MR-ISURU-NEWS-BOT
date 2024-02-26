@@ -1,24 +1,24 @@
 {
-  "name": "tech-news-scraper",
+  "name": "MR-ISURU-NEWS-BOT",
   "version": "1.0.0",
-  "description": "The Simple Tech News Scraper By Mr Nima",
+  "description": "The Simple Tech News Scraper By Mr Isuru",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DarkMakerofc/Tech-News-Scraper"
+    "url": "https://github.com/CyberKillersTEAM/MR-ISURU-NEWS-BOT"
   },
   "keywords": [
-    "nima",
+    "isuru",
     "ios",
-    "technology-scraper",
+    "mr-isuru-news-bot",
     "tech-news-scraper",
     "news",
     "english"
   ],
-  "author": "mr nima",
+  "author": "mr isuru",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.4.0",
